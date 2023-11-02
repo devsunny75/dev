@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is AE43-30F2
+
+ Directory of C:\Users\devga\OneDrive\Documents\projects
+
+02-11-2023  15:57    <DIR>          .
+02-11-2023  15:55    <DIR>          ..
+02-11-2023  15:57                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  426,197,798,912 bytes free
